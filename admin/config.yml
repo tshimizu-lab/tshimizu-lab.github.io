@@ -1,9 +1,9 @@
 backend:
-  name: github
+  name: git-gateway #github
   repo: tshimizu-lab/tshimizu-lab.github.io
   branch: main
   client_id: Ov23libTO6ad0YQFo6QH
-  base_url: https://decapcms-oauth.netlify.app
+  # base_url: https://decapcms-oauth.netlify.app
 media_folder: "assets/uploads"
 public_folder: "/assets/uploads"
 
