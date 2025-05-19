@@ -1,5 +1,0 @@
-// カスタム: サイドバーが無い場合は.pageを全幅に
-#main.no-sidebar .page {
-  width: 100% !important;
-  padding-inline-end: 0 !important;
-}
