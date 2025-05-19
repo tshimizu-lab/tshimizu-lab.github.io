@@ -13,7 +13,8 @@ collections:
     label: "Posts"
     folder: "_posts"
     create: true
-    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    slug: "{% raw %}{{year}}-{{month}}-{{day}}-{{slug}}{% endraw %}"
+    # slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     fields:
       - { label: "title", name: "title", widget: "string" }
       - { label: "date", name: "date", widget: "datetime" }
