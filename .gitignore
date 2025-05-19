@@ -1,0 +1,16 @@
+# Jekyll build artifacts
+_site/
+.jekyll-cache/
+.sass-cache/
+
+# macOS
+.DS_Store
+
+# Node modules
+node_modules/
+
+# VSCode settings
+.vscode/
+
+# Logs
+*.log
