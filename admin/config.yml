@@ -10,7 +10,7 @@ public_folder: "/assets/uploads"
 
 collections:
   - name: "posts"  
-    label: "投稿"
+    label: "Posts"
     folder: "_posts"
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
