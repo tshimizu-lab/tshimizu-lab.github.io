@@ -2,7 +2,7 @@ backend:
   name: github
   repo: tshimizu-lab/tshimizu-lab.github.io
   branch: master
-
+  client_id: Ov23libTO6ad0YQFo6QH
 media_folder: "assets/uploads"
 public_folder: "/assets/uploads"
 
