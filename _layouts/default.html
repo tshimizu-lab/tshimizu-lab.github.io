@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ page.title }} | {{ site.title }}</title>
+  <link rel="stylesheet" href="/assets/main.css">
+</head>
+<body>
+  <div class="header">
+    <div class="site-title">国立国際医療研究センター</div>
+    <div class="header-buttons">
+      <a href="#" class="header-btn">サイトマップ</a>
+      <a href="#" class="header-btn">ENGLISH</a>
+    </div>
+  </div>
+  <nav class="global-nav">
+    {% for item in site.data.navigation %}
+      <a href="{{ item.url }}">{{ item.title }}</a>
+    {% endfor %}
+  </nav>
+  <div class="content-wrapper">
+    <div class="main-content">
+      {{ content }}
+    </div>
+  </div>
+</body>
+</html>

@@ -1,18 +1,16 @@
 ---
-layout: page
-title: About
-permalink: /about/
+title: 研究内容
+layout: default
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+# 研究内容
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+私たちの研究室では、脂質シグナリングを中心とした生命現象の解明を目指しています。主な研究テーマは以下の通りです。
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+- 生体膜脂質の多様性と機能
+- 生理活性脂質（血小板活性化因子、エイコサノイド、リゾリン脂質など）の生合成と役割
+- 脂質シグナリングの疾患関連性
+- 分子生物学的・生化学的手法を用いた脂質解析
+- 疾患モデル動物を用いた機能解析
 
-
-[jekyll-organization]: https://github.com/jekyll
+これらの研究を通じて、炎症や免疫、疾患発症メカニズムの理解と新規治療法の開発を目指しています。
