@@ -1,7 +1,15 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  - title: "ホーム"
+    url: /
+  - title: "メンバー"
+    url: /member/
+  - title: "業績"
+    url: /achievement/
+  - title: "アクセス"
+    url: /access/
+  - title: "投稿"
+    url: /posts/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
