@@ -7,7 +7,7 @@ media_folder: "assets/uploads"
 public_folder: "/assets/uploads"
 
 collections:
-  - name: "posts"
+  - name: "posts"  
     label: "投稿"
     folder: "_posts"
     create: true
