@@ -1,7 +1,7 @@
 backend:
   name: github
   repo: tshimizu-lab/tshimizu-lab.github.io
-  branch: main
+  branch: main # Branch to update (optional; defaults to master)
   client_id: Ov23libTO6ad0YQFo6QH
   base_url: https://netlify-cms-github-oauth.netlify.app
 media_folder: "assets/uploads"
