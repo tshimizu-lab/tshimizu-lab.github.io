@@ -7,3 +7,9 @@ search: false
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
+// サイドバーが無い場合は.pageを全幅に
+#main.no-sidebar .page {
+  width: 100% !important;
+  padding-inline-end: 0 !important;
+}

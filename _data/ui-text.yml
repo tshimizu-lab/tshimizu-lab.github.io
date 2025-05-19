@@ -1149,7 +1149,7 @@ ja: &DEFAULT_JA
   related_label              : "関連記事"
   follow_label               : "フォロー"
   feed_label                 :
-  powered_by                 :
+  powered_by                 : ""
   website_label              :
   email_label                :
   recent_posts               : "最近の投稿"
